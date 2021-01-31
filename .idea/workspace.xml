@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d563beec-b32e-4a60-a398-7cb74e984f88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kKipzW0TS56Q0qVZ6hnFxlsO2j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebCrawler" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.webcrawler" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.New1">
+    <configuration name="CreatePosterImg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cover.CreatePosterImg" />
+      <module name="Analyze4Bt7086" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cover.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CutImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cover.CutImage" />
+      <module name="Analyze4Bt7086" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cover.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EditFolderName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.folder.EditFolderName" />
+      <module name="Analyze4Bt7086" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.folder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="New1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.webcrawler.New1" />
+      <module name="Analyze4Bt7086" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.webcrawler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAnalyze_1PageMulitFilm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.webcrawler.WebAnalyze_1PageMulitFilm" />
+      <module name="Analyze4Bt7086" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.webcrawler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.New1" />
+        <item itemvalue="Application.CreatePosterImg" />
+        <item itemvalue="Application.CutImage" />
+        <item itemvalue="Application.EditFolderName" />
+        <item itemvalue="Application.WebAnalyze_1PageMulitFilm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\wang\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d563beec-b32e-4a60-a398-7cb74e984f88" name="Default Changelist" comment="" />
+      <created>1605455870276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605455870276</updated>
+      <workItem from="1605455873932" duration="1919000" />
+      <workItem from="1605547928166" duration="2357000" />
+      <workItem from="1605614586608" duration="2299000" />
+      <workItem from="1605702927772" duration="7909000" />
+      <workItem from="1606044957658" duration="6808000" />
+      <workItem from="1606147839580" duration="402000" />
+      <workItem from="1606148277427" duration="138000" />
+      <workItem from="1606148451803" duration="242000" />
+      <workItem from="1606755442013" duration="4658000" />
+      <workItem from="1606833042797" duration="634000" />
+      <workItem from="1607094294141" duration="7914000" />
+      <workItem from="1607138043919" duration="9354000" />
+      <workItem from="1607150499616" duration="4008000" />
+      <workItem from="1607186292498" duration="1536000" />
+      <workItem from="1607607563180" duration="2507000" />
+      <workItem from="1607613013839" duration="258000" />
+      <workItem from="1607847257921" duration="9016000" />
+      <workItem from="1607871588097" duration="1363000" />
+      <workItem from="1608130632368" duration="2736000" />
+      <workItem from="1608386763544" duration="269000" />
+      <workItem from="1608387109866" duration="9627000" />
+      <workItem from="1608397375786" duration="2486000" />
+      <workItem from="1608438682276" duration="5317000" />
+      <workItem from="1608461906718" duration="910000" />
+      <workItem from="1608472606846" duration="3329000" />
+      <workItem from="1608907353010" duration="2614000" />
+      <workItem from="1608953001358" duration="3509000" />
+      <workItem from="1609492460041" duration="4578000" />
+      <workItem from="1610819456792" duration="2149000" />
+      <workItem from="1610876138550" duration="3441000" />
+      <workItem from="1610979998147" duration="1375000" />
+      <workItem from="1610986175582" duration="171000" />
+      <workItem from="1611064744329" duration="4958000" />
+      <workItem from="1611151368555" duration="1526000" />
+      <workItem from="1611315110763" duration="6091000" />
+      <workItem from="1611500707772" duration="3633000" />
+      <workItem from="1612084869001" duration="595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="95" key="#Project_Structure" timestamp="1605456094942">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="95" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1605456094942" />
+    <state x="998" y="419" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1606046719851">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="998" y="419" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1606046719851" />
+    <state x="994" y="473" key="#xdebugger.evaluate" timestamp="1606047012992">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="994" y="473" key="#xdebugger.evaluate/0.0.2560.1400@0.0.2560.1400" timestamp="1606047012992" />
+    <state width="803" height="749" key="DebuggerActiveHint" timestamp="1608443509568">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="429" height="466" key="DebuggerActiveHint/0.0.1368.872@0.0.1368.872" timestamp="1608391151291" />
+    <state width="803" height="749" key="DebuggerActiveHint/0.0.2560.1400@0.0.2560.1400" timestamp="1608443509568" />
+    <state x="915" y="305" key="FileChooserDialogImpl" timestamp="1611500766795">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="489" y="190" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1608387220047" />
+    <state x="915" y="305" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1611500766795" />
+    <state width="2517" height="492" key="GridCell.Tab.-1.bottom" timestamp="1607850497430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.-1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1607850497430" />
+    <state width="2517" height="492" key="GridCell.Tab.-1.center" timestamp="1607850497430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.-1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1607850497430" />
+    <state width="2517" height="492" key="GridCell.Tab.-1.left" timestamp="1607850497430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.-1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1607850497430" />
+    <state width="2517" height="492" key="GridCell.Tab.-1.right" timestamp="1607850497430">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.-1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1607850497430" />
+    <state width="2517" height="409" key="GridCell.Tab.0.bottom" timestamp="1611506323986">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1326" height="232" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1610986347948" />
+    <state width="2517" height="409" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611506323986" />
+    <state width="2517" height="409" key="GridCell.Tab.0.center" timestamp="1611506323986">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1326" height="232" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1610986347946" />
+    <state width="2517" height="409" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611506323986" />
+    <state width="2517" height="409" key="GridCell.Tab.0.left" timestamp="1611506323985">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1326" height="232" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1610986347930" />
+    <state width="2517" height="409" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611506323985" />
+    <state width="2517" height="409" key="GridCell.Tab.0.right" timestamp="1611506323986">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1326" height="232" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1610986347947" />
+    <state width="2517" height="409" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611506323986" />
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom" timestamp="1607850490068">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1607850490068" />
+    <state width="2517" height="492" key="GridCell.Tab.1.center" timestamp="1607850490068">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1607850490068" />
+    <state width="2517" height="492" key="GridCell.Tab.1.left" timestamp="1607850490064">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1607850490064" />
+    <state width="2517" height="492" key="GridCell.Tab.1.right" timestamp="1607850490068">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1607850490068" />
+    <state x="811" y="356" key="Maven.ArtifactSearchDialog" timestamp="1607849726057">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="811" y="356" key="Maven.ArtifactSearchDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1607849726057" />
+    <state x="209" y="90" key="SettingsEditor" timestamp="1606148633157">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="209" y="90" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1606148633157" />
+    <state x="782" y="343" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1606047115130" />
+    <state width="690" height="442" key="XDebugger.FullValuePopup" timestamp="1608391145931">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="690" height="442" key="XDebugger.FullValuePopup/0.0.1368.872@0.0.1368.872" timestamp="1608391145931" />
+    <state x="380" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1612084876685">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="380" y="260" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1612084876685" />
+    <state x="711" y="417" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1611151385840" />
+    <state x="1011" y="467" key="extract.method.dialog" timestamp="1607142792056">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1011" y="467" key="extract.method.dialog/0.0.2560.1400@0.0.2560.1400" timestamp="1607142792056" />
+    <state x="378" y="33" width="610" height="804" key="find.popup" timestamp="1605703579798">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="378" y="33" width="610" height="804" key="find.popup/0.0.1368.872@0.0.1368.872" timestamp="1605703579798" />
+    <state width="321" height="265" key="javadoc.popup" timestamp="1610981052996">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="321" height="265" key="javadoc.popup/0.0.1368.872@0.0.1368.872" timestamp="1610981052996" />
+    <state width="600" height="424" key="javadoc.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1608440701907" />
+    <state x="731" y="396" key="new project wizard" timestamp="1611064914252">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="731" y="396" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1611064914252" />
+    <state x="349" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1608392285920">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="349" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1608392285920" />
+    <state x="649" y="295" width="1258" height="1089" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1606046773920" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/webcrawler/WebAnalyze_1PageMulitFilm.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar!/org/apache/commons/io/FileUtils.class</url>
+          <line>89</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/folder/EditFolderName.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/webcrawler/New1.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="name.substring(0, 3)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
